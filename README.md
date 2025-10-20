@@ -32,7 +32,7 @@ Let's connect and share ideas! 😄
 <p align="center">
   <details open>
     <summary>📅 Full year commit calendar</summary>
-    <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" width="1000" alt="Full year commit calendar" style="background-color:#000000;">
+    <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" width="800" alt="Full year commit calendar" style="background-color:#000000;">
   </details>
 
   <details>
