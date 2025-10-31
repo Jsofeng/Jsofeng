@@ -29,22 +29,6 @@ Let's connect and share ideas! 😄
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <details open>
-    <summary>📅 Full year commit calendar</summary>
-    <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" width="800" alt="Full year commit calendar" style="background-color:#000000;">
-  </details>
-
-  <details>
-    <summary>📅 Half year commit calendar</summary>
-    <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" width="900" alt="Half year commit calendar" style="background-color:#000000;">
-  </details>
-</p>
-
-
 ---
 
 ## 🌟 Projects
