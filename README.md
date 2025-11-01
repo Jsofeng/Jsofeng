@@ -11,7 +11,7 @@
 Hi! I'm a <b>first-year Computer Science student</b> and an <b>aspiring Software / Machine Learning Engineer</b>.<br>
 I love tackling new challenges and learning every day.<br>
 Outside coding, I enjoy playing <b>volleyball</b> 🏐 and <b>indulging in food</b> 🍕.<br>
-Let's connect and share ideas! 😄
+Let's connect and build a project! 😄
   <b> email: jonathan.jf.zhao@gmail.com </b>
   
 </p>
