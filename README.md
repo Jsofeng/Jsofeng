@@ -34,7 +34,7 @@ Let's connect and build a project! 😄
 ## 🌟 Projects
 
 <p align="center">
-  <a href="https://github.com/Jsofeng/PaperInvest"> 📈PaperInvest - Stock Market Simulator</a> – Python (WIP)
+  <a href="https://github.com/Jsofeng/PaperInvest"> 📈PaperInvest - Stock Market Simulator</a> – Python (Pandas, Matplotlib, yfinance) [WIP]
 </p>
 
 <p align="center">
