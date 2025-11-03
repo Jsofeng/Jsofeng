@@ -38,7 +38,7 @@ Let's connect and build a project! 😄
 </p>
 
 <p align="center">
-  <a href="https://github.com/Jsofeng/Banking-System"> 💰Online Banking System</a> – Java OOP & SpringBoot
+  <a href="https://github.com/Jsofeng/Banking-System"> 💰Online Banking System</a> – Java & SpringBoot
 </p>
 
 
