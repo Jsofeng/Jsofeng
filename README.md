@@ -53,7 +53,7 @@ Let's connect and build a project! 😄
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" style="border:none;">
   </a>
   <a href="mailto:jonathan.jf.zhao@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white" style="border:none;">
+    <img src="https://img.shields.io/badge/-Email-darkred?style=for-the-badge&logo=gmail&logoColor=white" style="border:none;">
   </a>
 </p>
 
