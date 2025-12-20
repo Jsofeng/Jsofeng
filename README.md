@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 <p align="center">
-Hi! I am a Software Engineer Intern at a startup (CargoPlus) and a <b>first-year Computer Science student</b> and an <b>upcoming Software & Machine Learning Engineer</b>.<br>
+Hi! I am a Software Engineer Intern at a startup and a <b>first-year Computer Science student</b> and an <b>upcoming Software & Machine Learning Engineer</b>.<br>
 I love tackling new challenges and learning every day.<br>
 Outside coding, I enjoy playing <b>volleyball</b> 🏐 and <b>indulging in food</b> 🍕.<br>
 Let's connect and build a project! 😄
