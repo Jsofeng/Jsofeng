@@ -2,19 +2,24 @@
 <img width="2436" height="602" alt="Screenshot 2025-10-20 004105" src="https://github.com/user-attachments/assets/9f4223ff-d617-4fa6-894d-9c46f5cd6b5c" />
 </p>
 
-
-
 ---
 
+<div align="center">
+
 ## 👨‍💻 About Me
-<p align="center">
-Hi! I am a Software Engineer Intern at a startup and a <b>first-year Computer Science student</b> and an <b>upcoming Software & Machine Learning Engineer</b>.<br>
-I love tackling new challenges and learning every day.<br>
-Outside coding, I enjoy playing <b>volleyball</b> 🏐 and <b>indulging in food</b> 🍕.<br>
+
+Hi! I am a **Software Engineer Intern at a startup** and a **first-year Computer Science student**,  
+and an upcoming **Software & ML Engineer**.
+
+I enjoy tackling new challenges and learning every day.
+
+Outside of coding, I enjoy playing **volleyball** 🏐 and **indulging in food** 🍕.
+
 Let's connect and build a project! 😄
-  <b> email: jonathan.jf.zhao@gmail.com </b>
-  
-</p>
+
+**Email:** jonathan.jf.zhao@gmail.com
+
+</div>
 
 ---
 
