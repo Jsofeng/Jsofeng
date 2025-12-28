@@ -29,7 +29,6 @@ Let's connect and build a project! 😄
 </p>
 
 ---
----
 
 ## 🌟 Projects
 
@@ -45,9 +44,9 @@ Let's connect and build a project! 😄
 ---
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=SoftEngJ&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=SoftEngJ&theme=dark" alt="LeetCode Stats" />
+</p>
 
 ## 📫 Connect With Me
 <p align="center">
