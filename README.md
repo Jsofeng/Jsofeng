@@ -43,6 +43,11 @@ Let's connect and build a project! 😄
 
 
 ---
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=SoftEngJ&theme=tokyonight)
+
+---
 
 ## 📫 Connect With Me
 <p align="center">
