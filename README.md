@@ -31,6 +31,7 @@ Let's connect and build a project! 😄
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" width="125">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" width="130">
 </p>
