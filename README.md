@@ -50,10 +50,10 @@ Let's connect and build a project! 😄
 
 
 ---
-## 🧠 LeetCode Stats
 
+## 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=SoftEngJ&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/SoftEngJ?theme=unicorn"/>
 </p>
 
 ## 📫 Connect With Me
