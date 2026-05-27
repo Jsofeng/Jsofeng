@@ -8,8 +8,8 @@
 
 ## 👨‍💻 About Me
 
-Hi! I am a **Software Engineer Intern at a startup** and a **first-year Computer Science student**,  
-and an upcoming **Software & ML Engineer**.
+Hi! I'm Jonathan, a current **Software Engineer Intern at a Food Coalition Organization in Vancouver** and a **Second-year Computer Science student**,  
+and an upcoming **Software & Data Engineer**.
 
 I enjoy tackling new challenges and learning every day.
 
