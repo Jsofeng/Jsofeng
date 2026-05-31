@@ -40,11 +40,15 @@ Let's connect and build a project! 😄
 ## 🌟 Projects
 
 <p align="center">
-  <a href="https://github.com/Jsofeng/PaperInvest"> 📈PaperInvest - Stock Market Simulator</a> – Python (Pandas, Matplotlib, yfinance)
+  <a href="https://github.com/Jsofeng/NeuralCommit"> NeuralCommit - AI-Native Version Control – [Python, FastAPI, SQLite Anthropic API, CI/CD] 
 </p>
 
 <p align="center">
-  <a href="https://github.com/Jsofeng/Banking-System"> 💰Online Banking System</a> – Java & SpringBoot
+  <a href="https://github.com/Jsofeng/PaperInvest"> 📈PaperInvest - Stock Market Simulator</a> – Python [Pandas, Matplotlib, yfinance]
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jsofeng/Banking-System"> 💰Online Banking System</a> – [Java & SpringBoot]
 </p>
 
 
