@@ -40,7 +40,8 @@ Let's connect and build a project! 😄
 ## 🌟 Projects
 
 <p align="center">
-  <a href="https://github.com/Jsofeng/NeuralCommit"> NeuralCommit - AI-Native Version Control – [Python, FastAPI, SQLite Anthropic API, CI/CD] 
+  <a href="https://github.com/Jsofeng/NeuralCommit">👾NeuralCommit</a>
+  - AI-Native Version Control – [Python, FastAPI, SQLite, Anthropic API, CI/CD]
 </p>
 
 <p align="center">
