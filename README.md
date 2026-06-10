@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Jonathan, a current **Software Engineer Intern at a Food Coalition Organization in Vancouver** and a **Second-year Computer Science student**
+I'm Jonathan, a current **Software Engineer Intern @Atria Community** and a **Second-year Computer Science student**
 
 I enjoy tackling new challenges and learning every day.
 
