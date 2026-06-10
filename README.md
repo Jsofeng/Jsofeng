@@ -10,7 +10,7 @@
 
 I'm Jonathan, a current **Software Engineer Intern @Atria Community** and a **Second-year Computer Science student**
 
-I enjoy tackling new challenges and learning every day.
+I like math & ai.
 
 Outside of coding, I enjoy playing **volleyball** 🏐 and **indulging in food** 🍕.
 
