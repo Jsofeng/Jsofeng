@@ -65,7 +65,9 @@ Let's connect and build a project! 😄
   <a href="https://www.linkedin.com/in/jonathan-zhao-74a901357/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border:none;">
   <a href="mailto:jonathan.jf.zhao@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-darkred?style=for-the-badge&logo=gmail&logoColor=white" style="border:none;">
-  </a>
-</p>
+    <img 
+    src="https://img.shields.io/badge/-Email-darkred?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Email Badge"
+  />
+</a>
 
