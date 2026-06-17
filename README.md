@@ -62,7 +62,6 @@ jonathan = {
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white">
 </p>
 
 **Databases & Infra**
@@ -87,7 +86,7 @@ jonathan = {
 An AI-powered version control system that uses semantic embeddings to make commits searchable by **meaning**, not just message.
 Built with `nc commit`, `nc search`, `nc diff`, `nc rollback`, `nc dashboard` and more.
 
-`Python` `FastAPI` `ChromaDB` `Anthropic API` `SQLite` `CI/CD`
+`Python` `FastAPI` `Anthropic API` `SQLite` `CI/CD`
 
 ---
 
