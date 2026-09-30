@@ -22,7 +22,7 @@
 jonathan = {
     "role":       "SWE Intern @ Atria Community  
     "interests":  ["AI-native tooling", "open source", "data engineering", "anything that ships"],
-    "currently":  "Building NeuralCommit — because git blame isn't smart enough",
+    "currently":  "Building MemeMirror — Strike a pose of youf favourite meme together",
     "oss":        "LangChain contributions PR's -> (issues #34746, #37184)",
     "outside":    ["volleyball 🏐", "trying out every food place in toronto 🍕", "gym 💪", "LeetCode at 2am 😭"],
     "contact":    "jonathan.jf.zhao@gmail.com",
