@@ -80,6 +80,17 @@ jonathan = {
 
 ## 🌟 Featured Projects
 
+---
+
+### 🤪 [MemeMirror](https://github.com/Jsofeng/MemeMirror)
+> *Strike a pose -> it'll guess and display your meme.*
+
+A meme-matching that's made to allow users to alleviate stress and create laughter.
+
+`Python` `Machine Learning` `Computer Vision`
+
+---
+
 ### 👾 [NeuralCommit](https://github.com/Jsofeng/NeuralCommit) — AI-Native Version Control
 > *Git, but it actually understands your code.*
 
@@ -88,23 +99,12 @@ Built with `nc commit`, `nc search`, `nc diff`, `nc rollback`, `nc dashboard` an
 
 `Python` `FastAPI` `Anthropic API` `SQLite` `CI/CD`
 
----
+### 💵 [Banking CRUD](https://github.com/Jsofeng/Banking_CRUD)
+> *Accounts, transactions, and clean CRUD operations.*
 
-### 📈 [PaperInvest](https://github.com/Jsofeng/PaperInvest) — Stock Market Simulator
-> *For when you want to lose fake money before losing real money.*
+A banking application focused on core account and transaction management through create, read, update, and delete operations.
 
-A paper trading simulator with real market data, portfolio tracking, and performance visualization.
-
-`Python` `Pandas` `Matplotlib` `yfinance`
-
----
-
-### 💰 [Online Banking System](https://github.com/Jsofeng/Banking-System)
-> *Your money, but make it enterprise.*
-
-Full-stack banking application with authentication, transaction management, and account operations.
-
-`Java` `Spring Boot` `PostgreSQL`
+`Python` `FastAPI` `React` `Redis` `PostgreSQL` 
 
 ---
 
