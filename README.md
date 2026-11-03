@@ -22,7 +22,7 @@
 jonathan = {
     "role":       "SWE Intern @ Atria Community  
     "interests":  ["AI-native tooling", "open source", "data engineering", "anything that ships"],
-    "currently":  "Building MemeMirror — Strike a pose of youf favourite meme together",
+    "currently":  "Jarvis — Your own personalized agent that does day to day tasks for you",
     "oss":        "LangChain contributions PR's -> (issues #34746, #37184)",
     "outside":    ["volleyball 🏐", "trying out every food place in toronto 🍕", "gym 💪", "LeetCode at 2am 😭"],
     "contact":    "jonathan.jf.zhao@gmail.com",
@@ -79,6 +79,16 @@ jonathan = {
 
 
 ## 🌟 Featured Projects
+
+---
+
+### 🤖 [Jarvis](https://github.com/Jsofeng/my-agent)
+> Your Personal Agent
+
+`Python` `LangGraph (wip)` `llamaIndex (wip) ` `smolagents`
+
+---
+
 
 ---
 
